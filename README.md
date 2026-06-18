@@ -37,3 +37,6 @@ A Python program demonstrating inheritance where a child class inherits attribut
 
 ### 4. Multilevel Inheritance
 A Python program demonstrating multilevel inheritance where a class inherits from a child class that already inherited from another class.
+
+### 5. Hierarchical Inheritance
+A Python program demonstrating hierarchical inheritance where multiple child classes inherit from the same parent class.
