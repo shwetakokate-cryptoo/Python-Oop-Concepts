@@ -40,3 +40,6 @@ A Python program demonstrating multilevel inheritance where a class inherits fro
 
 ### 5. Hierarchical Inheritance
 A Python program demonstrating hierarchical inheritance where multiple child classes inherit from the same parent class.
+
+### 6. Polymorphism
+A Python program demonstrating polymorphism where different objects respond differently to the same method call.
