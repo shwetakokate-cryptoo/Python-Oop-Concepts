@@ -43,3 +43,6 @@ A Python program demonstrating hierarchical inheritance where multiple child cla
 
 ### 6. Polymorphism
 A Python program demonstrating polymorphism where different objects respond differently to the same method call.
+
+### 7. Encapsulation
+A Python program demonstrating encapsulation using private variables and controlled access through methods.
