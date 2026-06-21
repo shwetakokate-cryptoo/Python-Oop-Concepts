@@ -49,3 +49,6 @@ A Python program demonstrating encapsulation using private variables and control
 
 ### 8. Abstraction
 A Python program demonstrating abstraction using abstract classes and abstract methods from the abc module.
+
+### 9. Method Overriding
+A Python program demonstrating method overriding where child classes provide their own implementation of a parent class method.
