@@ -46,3 +46,6 @@ A Python program demonstrating polymorphism where different objects respond diff
 
 ### 7. Encapsulation
 A Python program demonstrating encapsulation using private variables and controlled access through methods.
+
+### 8. Abstraction
+A Python program demonstrating abstraction using abstract classes and abstract methods from the abc module.
