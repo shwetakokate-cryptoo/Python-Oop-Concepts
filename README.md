@@ -52,3 +52,19 @@ A Python program demonstrating abstraction using abstract classes and abstract m
 
 ### 9. Method Overriding
 A Python program demonstrating method overriding where child classes provide their own implementation of a parent class method.
+
+### 10. Student Management System
+
+A mini OOP project that allows users to:
+
+- Add student records
+- View all students
+- Search students by roll number
+
+Concepts Used:
+- Classes and Objects
+- Constructors
+- Lists
+- Functions
+- User Input
+- OOP Design
